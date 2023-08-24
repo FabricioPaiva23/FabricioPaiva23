@@ -5,7 +5,7 @@ Desenvolvedor Back-End com ênfase em Java.
 ## Conecte-se 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabr%C3%ADcio-paiva-28ab52241/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cdpaiva24530@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdpaiva24530@gmail.com)
 
 
 
