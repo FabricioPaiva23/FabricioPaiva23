@@ -1,6 +1,6 @@
 # Fabrício Paiva
 
-Desenvolvedor Back-End com ênfase em Java.
+Desenvolvedor Full-Stack com ênfase em Java.
 
 ## Conecte-se 
 
