@@ -11,7 +11,7 @@ Desenvolvedor Full-Stack com ênfase em Java e Php.
 
 ## Skills
 
-![Java_Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python_Badge](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-6DB33F?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-ABBBBA?style=for-the-badge&logo=linux&logoColor=white)
