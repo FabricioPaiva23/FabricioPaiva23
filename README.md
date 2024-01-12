@@ -18,8 +18,6 @@ Desenvolvedor Full-Stack com ênfase em Java e Php.
 ![Javascript_Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML_Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS_Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Php_Badge](https://img.shields.io/badge/php-ED8B00?style=for-the-badge&logo=php&logoColor=white)
-![Larave](https://img.shields.io/badge/laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 
