@@ -1,6 +1,6 @@
 # Fabrício Paiva
 
-Desenvolvedor Full-Stack com ênfase em Java e Php.
+Desenvolvedor Full-Stack com ênfase em Python com o framework web Django.
 
 ## Conecte-se 
 
