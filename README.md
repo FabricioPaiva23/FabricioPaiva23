@@ -1,10 +1,10 @@
 # Ola! Eu sou o Fabrício Paiva 🖐️ 
-## Sou de desenvolvedor Full-Stack com ênfase em Python usando o framework web Django.
+## Sou de desenvolvedor Full-Stack com ênfase em Java usando o framework web Spring.
 
 # Formação acadêmica 🤓
 
 - ## Graduado em análise e desenvolvimento de software 👨🏻‍💻
-- ## Pós-graduado em Ciências de dados 📈
+- ## Pós-graduado em desenvolvimento Java 📈
 - ## Graduando em Engenharia de Telecomunicações 📡
 
 # Contatos 📞
